@@ -1,3 +1,5 @@
+# github.com/conceptslearningmachine\
+
 # Microsoft Quantum Development Kit: <br>Q# Compiler and Language Server #
 
 Welcome to the Microsoft Quantum Development Kit!
